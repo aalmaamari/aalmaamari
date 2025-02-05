@@ -48,7 +48,7 @@ p {
 hr {
     border: none;
     height: 2px;
-    background: var(--primary-color);
+    background:none;
     margin: 20px 0;
 }
 
@@ -61,6 +61,7 @@ h2 {
 }
 
 h3 {
+    text-align: center;
     color: var(--primary-color);
     margin-top: 20px;
 }
@@ -85,7 +86,7 @@ ul li a {
 
 .summary-paragraph p{
     text-align:justify;
-    font-size: 1.1em;
+    /* font-size: 1.1em; */
 }
 
 
