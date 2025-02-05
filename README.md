@@ -71,4 +71,4 @@ An **interactive number-guessing game** showcasing **gradual learning and softwa
 💼 **LinkedIn**: [Abdullah Al Maamari](https://www.linkedin.com/in/aalmaamari/)  
 📢 **Website**: [aalmaamari.github.io](https://aalmaamari.github.io/)
 
-💡 *"Always learning. Always experimenting."* 🚀  
+💡 *"Always learning. Always experimenting."* 🚀   
