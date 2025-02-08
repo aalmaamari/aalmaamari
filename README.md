@@ -51,6 +51,9 @@ A **low-level computer simulation** designed to deepen **computational logic and
 
 An **interactive number-guessing game** showcasing **gradual learning and software optimization**.  
 
+### 🤖 [Neural Network Tutorials](https://github.com/aalmaamari/neural-network-tutorials)  
+A **series of hands-on tutorials** exploring the **fundamentals of neural networks**, including **perceptrons, backpropagation, and deep learning basics**. Designed to **demystify AI concepts** through practical coding exercises.  
+
 ---
 
 ## 📖 **Currently Studying**  
