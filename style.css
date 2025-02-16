@@ -54,6 +54,9 @@ hr {
 
 /* Headings */
 h2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     color: var(--primary-color);
     border-bottom: 2px solid var(--secondary-color);
     padding-bottom: 5px;
