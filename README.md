@@ -36,18 +36,18 @@
 ## **Featured Learning Projects**  
 
 ### [8-bit Machine Simulator](https://github.com/aalmaamari/8bit-machine-simulator)  
-A **low-level computer simulation** designed to deepen **computational logic and programming knowledge**.  
+- A **low-level computer simulation** designed to deepen **computational logic and programming knowledge**.  
 ![simulator](thesimulator.png)
-### [Guess Number Game - C & Python Versions]  
-- [C Version](https://github.com/aalmaamari/guess-the-number-C)  
-- [Python Version](https://github.com/aalmaamari/guess-the-number-python)  
+---
+### Guess Number Game - [C Version](https://github.com/aalmaamari/guess-the-number-C) & [Python Version](https://github.com/aalmaamari/guess-the-number-python)
 
-An **interactive number-guessing game** showcasing **gradual learning and software optimization**. 
+ - An **interactive number-guessing game** showcasing **gradual learning and software optimization**. 
 ![trial](trial.png) 
+---
 
-### [Neural Network Tutorials](https://github.com/aalmaamari/neural-network-tutorials)  
+### [Neural Network Tutorials](https://github.com/aalmaamari/neural-network-tutorials)
 
-A **series of hands-on tutorials** exploring the **fundamentals of neural networks**, including **perceptrons, backpropagation, and deep learning basics**. Designed to **demystify AI concepts** through practical coding exercises.  
+- A **series of hands-on tutorials** exploring the **fundamentals of neural networks**, including **perceptrons, backpropagation, and deep learning basics**. Designed to **demystify AI concepts** through practical coding exercises.  
 ![learning](plot_1.png)
 ---
 
