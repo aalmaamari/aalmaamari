@@ -1,26 +1,26 @@
-# 👋 Hi, I'm Abdullah Al Maamari!  
+#  Hi, I'm Abdullah Al Maamari!  
 
 **Mechanical Engineer | Self-Taught Programmer | AI & Systems Enthusiast**  
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![C](https://img.shields.io/badge/C-Language-lightgrey)
-[![Django](https://img.shields.io/badge/Django-Framework-green)](https://www.djangoproject.com/)
 [![Linux](https://img.shields.io/badge/Linux-OS-blue)](https://www.linux.org/)
-[![Debian](https://img.shields.io/badge/Debian-Linux-orange)](https://www.debian.org/)
-[![Homebrew](https://img.shields.io/badge/Homebrew-Package_Manager-lightgrey)](https://brew.sh/)
-[![Logisim Evolution](https://img.shields.io/badge/Logisim_Evolution-Circuit_Simulation-orange)](https://github.com/logisim-evolution/logisim-evolution)
-[![VSCode](https://img.shields.io/badge/VSCode-Editor-blue)](https://code.visualstudio.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-Database-blue)](https://www.sqlite.org/)
 [![Git](https://img.shields.io/badge/Git-Version_Control-orange)](https://git-scm.com/)
-[![Markdown](https://img.shields.io/badge/Markdown-Documentation-blue)](https://www.markdownguide.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-Database-blue)](https://www.sqlite.org/)
+
+
+
+
+
+
 
 ---
 
 ## **Background**  
 
-🔹 **Mechanical Engineer** transitioning into **Computer Science** with 15+ years of industry experience.  
-🔹 Passionate about **low-level computing, AI, software development, and logic-based problem solving**.  
-🔹 Merging **engineering, computational thinking, and programming** to solve complex challenges.  
+- **Mechanical Engineer** transitioning into **Computer Science** with 15+ years of industry experience.  
+- Passionate about **low-level computing, AI, software development, and logic-based problem solving**.  
+- Merging **engineering, computational thinking, and programming** to solve complex challenges.  
 
 ---
 
@@ -29,7 +29,7 @@
 ### **Programming & Software Development**  
 - **Languages**: Python | C | SQL (SQLite)  
 - **Frameworks**: Django  
-- **Tools**: clang, gcc, zch, Git, Homebrew, SQLite, VSCode, Logisim Evolution.  
+- **Tools**: zch | clang | gcc | Git | Homebrew | SQLite | VSCode | Logisim Evolution  
 
 ---
 
